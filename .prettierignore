@@ -1,0 +1,7 @@
+.nuxt/
+node_modules/
+static/
+.output/
+.idea
+dist
+bitbucket-pipelines.yml
