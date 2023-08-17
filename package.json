@@ -7,7 +7,7 @@
     "generate": "nuxt generate",
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare",
-    "style:check": "npx prettier --check .",
+    "style": "npx prettier --check .",
     "style:fix": "npx prettier --write .",
     "lint": "eslint --ext .ts,.js,.vue .",
     "lint:fix": "eslint --fix --ext .ts,.js,.vue ."
