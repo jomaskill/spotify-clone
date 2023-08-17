@@ -16,7 +16,7 @@ import SearchIcon from '~/components/icons/SearchIcon.vue'
           aria-expanded="false"
         >
           <HomeIcon />
-          <span>Início</span>
+          <span>Home</span>
         </a>
       </li>
       <li class="py-1 px-3">
@@ -28,7 +28,7 @@ import SearchIcon from '~/components/icons/SearchIcon.vue'
           aria-expanded="false"
         >
           <SearchIcon />
-          <span>Buscar</span>
+          <span>Search</span>
         </a>
       </li>
     </ul>

@@ -14,19 +14,17 @@ import RightArrowIcon from '~/components/icons/RightArrowIcon.vue'
               <span>
                 <LibraryIcon />
               </span>
-              Sua Biblioteca
+              Your Library
             </button>
           </div>
           <button
             class=""
-            aria-label="Criar playlist ou pasta"
             aria-expanded="false"
           >
             <span aria-hidden="true"><PlusIcon /></span>
           </button>
           <button
             class=""
-            aria-label="Ampliar Sua Biblioteca"
             aria-expanded="false"
           >
             <span aria-hidden="true">
