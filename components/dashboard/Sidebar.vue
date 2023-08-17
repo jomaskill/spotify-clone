@@ -4,8 +4,8 @@ import YourLibrary from '~/components/dashboard/YourLibrary.vue'
 </script>
 
 <template>
-  <div class="w-full h-full max-w-[420px] flex flex-col gap-2">
+  <nav class="w-full h-full max-w-[420px] flex flex-col gap-2 text-text-250">
     <NavBar />
     <YourLibrary />
-  </div>
+  </nav>
 </template>

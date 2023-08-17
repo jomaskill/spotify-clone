@@ -41,7 +41,6 @@ ul {
 }
 
 .link-subtle {
-  color: #b3b3b3;
   -webkit-transition-duration: 0.3s;
   transition-duration: 0.3s;
   -webkit-transition-property: color;
