@@ -34,5 +34,8 @@ import RightArrowIcon from '~/components/icons/RightArrowIcon.vue'
         </div>
       </header>
     </div>
+    <div>
+      favorites / most accessed
+    </div>
   </div>
 </template>
